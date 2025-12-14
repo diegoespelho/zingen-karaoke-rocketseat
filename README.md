@@ -1,7 +1,7 @@
-<h1 align="center">Travelgram | Perfil de viagens</h1>
+<h1 align="center">Zingen | Karaokê</h1>
 
 <p align="center">
-Perfil de Viagens desenvolvido durante curso Full-stack by Rocketseat.
+Landing Page de marketing completa e responsiva de um aplicativo de karaokê desenvolvido durante curso Full-stack by Rocketseat.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Perfil de Viagens desenvolvido durante curso Full-stack by Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Travelgram" src=".github/preview.jpg" width="100%">
+  <img alt="Zingen" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias e Ferramentas
@@ -29,9 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 ## 💻 Projeto
 
-O Travelgram é um perfil de viagens.
+Landing Page de marketing para um aplicativo de karaokê.
 
-- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/travelgram-rocketseat/)
+- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/zingen-karaoke-rocketseat/)
 
 ## 🔖 Layout
 
